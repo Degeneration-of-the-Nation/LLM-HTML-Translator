@@ -86,5 +86,16 @@ Redistribution and use in source and binary forms, with or without modification,
 1. Redistributions of source code must retain this list of conditions and include a link to https://degeneration-of-nation.org
 2. Redistributions in binary form must reproduce this list of conditions in the documentation and/or other materials provided with the distribution and include a link to https://degeneration-of-nation.org
 
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
 ### Content License
-The website content being translated is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). When using translated content, please provide attribution to: https://degeneration-of-nation.org
+The website content being translated is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). When using the content, please provide attribution to: https://degeneration-of-nation.org
